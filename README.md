@@ -1,4 +1,9 @@
 ## Hi there 👋
+I have extensive experience in software engineering, backend development and data modelling. I have experience in the domain of Energy Monitoring, Smart Sensors and AI/ML based products.
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluz-07&size_weight=0.5&count_weight=0.99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angeluz-07&hide=contribs&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Angeluz-07/Angeluz-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
