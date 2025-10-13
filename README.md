@@ -1,14 +1,8 @@
 ## Hi, I'm Roberto Alejandro Mena 👋
-Bsc. in Computer Science with +4 years of experience in Python Development and API Development.
-I'm currently working on the field of video creation and video editing for social networks such as Youtube and Facebook.
+Bsc. in Computer Science with +4 years of experience in Software Engineering with Python, RESTful APIs and Machine Learning Applications.
+During this period, I have worked as a technical consultant on different software projects, and have actively participated in: design decisions, solution proposals, and software development. In my projects, I like to adopt best practices, also seek a balance between optimal and practical solutions, in order to meet project goals.
 
 Available for On-Demand consultancy, temporary Projects and remote Roles.
-
-[ES]
-Ingeniero en computación con +4 años de experiencia en Desarrollo en Python y Desarrollo de APIs Restful.
-Actualmente me encuentro trabajando en proyectos de creación y edición de videos para redes sociales como Youtube y Facebook.
-
-Disponible para consultorías, proyectos temporales, trabajos de medio tiempo y roles en remoto. Dominio profesional del idioma Inglés.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluz-07&size_weight=0.5&count_weight=0.99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
