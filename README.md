@@ -1,8 +1,8 @@
 ## Hi, I'm Roberto Alejandro Mena 👋
-Software Consultant with +5 years of experience, skilled in solution design and full-stack development. 
-Committed to continuous learning and collaborative growth, ensuring project goals are met through both, expertise and adaptability. Available for on-demand consultancy and remote roles.
+Software Consultant with +5 years of experience, developing web apps and backend services.
+Committed to continuous learning and collaborative growth, ensuring project goals are met through both, expertise and adaptability.  Available for on-demand consultancy and remote roles.
 
-Skills: Python, React, TDD, DDD, SQL & NoSQL Databases, RESTful APIs, ML Applications. 
+Skills: Python, Azure, TDD, DDD, SQL & NoSQL Databases, RESTful APIs, ML Applications. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluz-07&size_weight=0.5&count_weight=0.99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +11,7 @@ Skills: Python, React, TDD, DDD, SQL & NoSQL Databases, RESTful APIs, ML Applica
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,postgres,flask,docker,aws,gcp,azure,cassandra,mongo,mysql,java,net" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,vue,azure,django,postgres,flask,docker,aws,gcp,cassandra,mongo,mysql,java,net" />
   </a>
 </p>
 
