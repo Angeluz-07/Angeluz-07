@@ -1,11 +1,10 @@
 ## Hi, I'm Roberto Mena 👋
-Software Consultant with +6 years of experience, developing backend services and web apps, with focus on designing scalable solutions, relying on Domain-Driven Design (DDD) principles. Committed to continuous learning and collaborative growth, ensuring project goals are met through both, expertise and adaptability.  Available for on-demand consultancy and remote roles.
+BSc. in Computer Science with professional experience in Software Engineering. My focus is the design and implementation of backend services and AI solutions. I enjoy developing innovative solutions and improving system performance. Open to remote opportunities and on-demand consulting.
 
 Main Stack: Python | FastAPI | MongoDB | Docker | Vue | Azure
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluz-07&size_weight=0.5&count_weight=0.99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Angeluz-07&count_weight=0.99&langs_count=4)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angeluz-07&hide=contribs&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Angeluz-07/Angeluz-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
